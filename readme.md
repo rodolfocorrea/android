@@ -1,0 +1,1 @@
+Estou gostando muito do curso, porém, acho que ele foi desenvolvido para quem tem algum conhecimento, o que não me impediu de procurar e pesquisar sobre o assunto firmado, tendo em vista que não possuo qualquer conhecimento sobre GIT. Desta forma, acredtio me desenvolver ainda mais.
